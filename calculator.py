@@ -21,9 +21,9 @@ def divide(self, a, b): return a / b
 
 # TODO: Implement the following function to calculate the square root of a number.
 
-# def square_root(self, x):
+  def square_root(self, x):
 
-#     return math.sqrt(x)
+     return math.sqrt(x)
 
  
 
